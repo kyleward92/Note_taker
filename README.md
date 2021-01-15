@@ -1,5 +1,7 @@
 # Note_taker
-Heroku App link:https://git.heroku.com/note----taker.git
+
+The git repo is located here [github](https://github.com/Kyleward92/)
+The server application on heroku is located here  [heroku](https://note----taker.herokuapp.com/)
 
 
 
@@ -19,7 +21,7 @@ This is an application that can be used to write, save, and delete notes. This a
 - [Questions](#-Questions)
     
 ## Installation Instructions
-Simply open https://git.heroku.com/note----taker.git
+Simply open https://note----taker.herokuapp.com/
     
 ## How the Project Should Be Used
 Used to take, save, and delete notes!
